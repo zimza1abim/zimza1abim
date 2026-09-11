@@ -6,16 +6,14 @@
 
 <br><br>
 
-<sub>
+<h4>
   <i>
     “I think it is Nietzsche that said something that<br>
     when you do something for love, you are never doing anything wrong.”
   </i>
-</sub>
+</h4>
 
-<br>
-
-<sub><b>— I did it for love.</b></sub>
+<h3>— I did it for love.</h3>
 
 <br><br><br>
 
